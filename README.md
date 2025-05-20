@@ -43,7 +43,7 @@ This project explores the effect of different architectural designs and hyperpar
 - Python 3.x
 - TensorFlow / Keras
 - Scikit-learn
-- NumPy, Matplotlib, Seaborn
+- NumPy, Matplotlib
 - Jupyter Notebook
 
 ---
@@ -58,7 +58,7 @@ This project explores the effect of different architectural designs and hyperpar
 
 ## 📄 Report
 
-A full report (`report.pdf`) is included in this repository. It contains:
+A full report is included in this repository. It contains:
 - Accuracy and loss graphs
 - Architecture comparison
 - Training time analysis
@@ -72,7 +72,7 @@ A full report (`report.pdf`) is included in this repository. It contains:
 This project was part of a deep learning coursework project focused on practical experimentation and model evaluation using the MNIST dataset.
 
 
-## Project Files
+## 🔗 Project Resources and Links
 
 Final Notebook: https://colab.research.google.com/drive/1dShUuXRdaU9a6CB5VI6bWiQXTg6VtklQ?usp=sharing#scrollTo=sSA9SNEDuWJr
 
